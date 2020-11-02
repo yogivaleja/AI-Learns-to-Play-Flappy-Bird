@@ -26,6 +26,7 @@ DRAW_LINES, variable in setting.py simply shows the distance line between the bi
 By default DRAW_LINES = False
   
 # Images
-![](./assets/screenshots/2020-11-03-00-04-56.png)
-![](./assets/screenshots/2020-11-03-00-05-55.png)
-![](./assets/screenshots/2020-11-03-00-06-04.png)
+![2020-11-03-00-04-56](https://user-images.githubusercontent.com/53828910/97908202-64d0a180-1d6c-11eb-8ec6-fb94a01f7e23.png)
+![2020-11-03-00-05-55](https://user-images.githubusercontent.com/53828910/97908208-669a6500-1d6c-11eb-864e-c34c1b1cda72.png)
+![2020-11-03-00-06-04](https://user-images.githubusercontent.com/53828910/97908215-67cb9200-1d6c-11eb-8079-9e4bdf21a11b.png)
+
